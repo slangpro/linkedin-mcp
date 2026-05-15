@@ -82,9 +82,9 @@ async function startServer() {
     transport
   );
 
-  console.log(
-    "LinkedIn MCP Server Running..."
-  );
+// console.error(
+//   "LinkedIn MCP Server Running..."
+// );
 }
 
 startServer();
